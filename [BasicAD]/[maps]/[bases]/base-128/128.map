@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="926.619995" posY="-923.289978" posZ="42.599998" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="759.890014" posY="-1256.060058" posZ="13.550000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="922.789978" posY="-928.669982" posZ="42.599998" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="16" def="8" played="16" /> 
+    <other name="Villa" /> 
+</map>

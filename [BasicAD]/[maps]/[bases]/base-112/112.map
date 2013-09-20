@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1021.510009" posY="-1438.949951" posZ="13.550000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1174.329956" posY="-909.419982" posZ="43.319999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1012.919982" posY="-1442.020019" posZ="13.720000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="11" def="9" played="15" /> 
+    <other name="Drift yard" /> 
+</map>

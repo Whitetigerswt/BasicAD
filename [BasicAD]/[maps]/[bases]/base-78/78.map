@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="2" posX="2548.610107" posY="-1292.883056" posZ="1044.125000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="2" posX="2544.604980" posY="-1296.520996" posZ="1031.421020" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="2" posX="2534.500000" posY="-1297.831054" posZ="1044.125000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="465" def="616" played="1078" /> 
+    <other name="Drug Factory" /> 
+</map>

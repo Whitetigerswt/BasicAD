@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2463.870117" posY="-99.379997" posZ="25.850000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2169.620117" posY="-478.779998" posZ="45.439998" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2463.419921" posY="-111.239997" posZ="25.870000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="6" played="14" /> 
+    <other name="Dark concrete back yard" /> 
+</map>

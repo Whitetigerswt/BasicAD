@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="1" posX="2144.346923" posY="1639.916137" posZ="993.576110" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="1" posX="2235.759277" posY="1677.273071" posZ="1008.359313" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="1" posX="2144.231201" posY="1616.874145" posZ="993.688110" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="539" def="560" played="1084" /> 
+    <other name="Caligulas Casino" /> 
+</map>

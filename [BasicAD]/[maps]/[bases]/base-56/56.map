@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1954.287353" posY="301.079711" posZ="41.047000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1576.078247" posY="400.781311" posZ="7.187500" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1923.144775" posY="268.691894" posZ="41.046798" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="26" def="22" played="48" /> 
+    <other name="Fucking CarShop" /> 
+</map>

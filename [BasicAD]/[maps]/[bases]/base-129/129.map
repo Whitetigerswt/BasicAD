@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="858.020019" posY="-1368.229980" posZ="13.539999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1084.280029" posY="-1738.239990" posZ="13.510000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="856.710021" posY="-1372.579956" posZ="13.569999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="14" def="4" played="15" /> 
+    <other name="The dumpster" /> 
+</map>

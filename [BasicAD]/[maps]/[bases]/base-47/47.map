@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="10" posX="-1132.496948" posY="1058.209960" posZ="1346.412963" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="10" posX="-975.437011" posY="1078.062988" posZ="1344.979980" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="10" posX="-1132.374023" posY="1042.594970" posZ="1345.743041" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="498" def="507" played="998" /> 
+    <other name="Tank playground" /> 
+</map>

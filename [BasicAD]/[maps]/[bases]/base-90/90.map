@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1530.380004" posY="-1845.420043" posZ="13.539999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2162.479980" posY="-1799.859985" posZ="13.369999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1530.890014" posY="-1840.119995" posZ="13.539999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="7" played="14" /> 
+    <other name="Dark street" /> 
+</map>

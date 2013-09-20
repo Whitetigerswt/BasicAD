@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1622.819946" posY="-1813.199951" posZ="13.520000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1875.130004" posY="-1395.829956" posZ="13.560000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1623.010009" posY="-1818.569946" posZ="13.520000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="12" def="11" played="16" /> 
+    <other name="Under Unity highway" /> 
+</map>

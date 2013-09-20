@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1684.520019" posY="-2285.300048" posZ="13.500000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1371.119995" posY="-1661.119995" posZ="13.380000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1682.270019" posY="-2278.429931" posZ="13.510000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="8" played="12" /> 
+    <other name="Airport Jam" /> 
+</map>

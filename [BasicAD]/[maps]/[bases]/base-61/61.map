@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1954.876342" posY="-908.911987" posZ="35.890800" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2119.369384" posY="-96.456199" posZ="35.320301" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1954.746704" posY="-871.052673" posZ="35.890598" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="17" def="26" played="39" /> 
+    <other name="Glass roof" /> 
+</map>

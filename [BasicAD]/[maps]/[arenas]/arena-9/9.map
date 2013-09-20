@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1296.951416" posY="2803.148925" posZ="10.800000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1155.582275" posY="2802.798095" posZ="10.800000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1403.404907" posY="2786.418212" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="1136.951416" minY="2643.148925" maxX="1456.951416" maxY="2963.148925" />
+    <wins att="22" def="102" played="49" /> 
+    <other name="Golf Court" /> 
+</map>

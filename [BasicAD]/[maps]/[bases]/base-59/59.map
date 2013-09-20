@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2176.675537" posY="639.986694" posZ="49.437500" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2875.106201" posY="486.680999" posZ="4.914000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2198.440429" posY="641.985473" posZ="49.442901" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="24" def="24" played="45" /> 
+    <other name="ChinaTown" /> 
+</map>

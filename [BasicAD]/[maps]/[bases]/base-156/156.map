@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1981.650024" posY="-1155.010009" posZ="29.260000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2122.739990" posY="-233.100006" posZ="35.319999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1974.060058" posY="-1154.949951" posZ="29.250000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="6" played="15" /> 
+    <other name="Under south SF highway" /> 
+</map>

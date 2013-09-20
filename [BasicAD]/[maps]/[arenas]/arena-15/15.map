@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1622.008666" posY="1934.967041" posZ="9.949999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1493.034912" posY="1975.979125" posZ="10.699999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1706.469360" posY="1899.208129" posZ="10.671799" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="1462.008666" minY="1774.967041" maxX="1782.008666" maxY="2094.967041" />
+    <wins att="24" def="103" played="44" /> 
+    <other name="Rocky Lake" /> 
+</map>

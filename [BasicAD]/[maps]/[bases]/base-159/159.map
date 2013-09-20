@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2706.260009" posY="376.279998" posZ="4.960000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1339.390014" posY="-47.119998" posZ="14.140000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2707.530029" posY="366.059997" posZ="4.389999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="7" played="11" /> 
+    <other name="SF town square" /> 
+</map>

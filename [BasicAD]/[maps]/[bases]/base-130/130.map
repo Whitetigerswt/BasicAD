@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1134.109985" posY="-1609.180053" posZ="18.540000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1824.209960" posY="-1612.430053" posZ="13.380000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1134.439941" posY="-1618.430053" posZ="18.549999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="8" def="7" played="13" /> 
+    <other name="LS Shopping Center" /> 
+</map>

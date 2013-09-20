@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2710.919921" posY="847.750000" posZ="70.699996" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2695.360107" posY="-238.479995" posZ="6.889999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2704.370117" posY="847.280029" posZ="70.699996" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="4" def="7" played="10" /> 
+    <other name="The sunny back yard" /> 
+</map>

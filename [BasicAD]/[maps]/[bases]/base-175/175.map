@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2132.659912" posY="270.230010" posZ="35.759998" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2689.090087" posY="367.279998" posZ="4.389999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2119.699951" posY="272.609985" posZ="35.479999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="14" played="15" /> 
+    <other name="Bob the builder" /> 
+</map>

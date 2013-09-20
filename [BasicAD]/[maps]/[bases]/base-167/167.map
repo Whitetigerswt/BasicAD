@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="1" posX="960.750000" posY="2100.030029" posZ="1011.020019" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="1" posX="962.440002" posY="2150.820068" posZ="1011.020019" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="1" posX="960.390014" posY="2108.860107" posZ="1011.030029" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="25" def="30" played="54" /> 
+    <other name="Cock Meat Factory" /> 
+</map>

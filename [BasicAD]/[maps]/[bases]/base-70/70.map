@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="383.380310" posY="2604.402832" posZ="16.484300" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1684.578369" posY="1609.815429" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="385.462707" posY="2570.527099" posZ="16.395799" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="42" def="50" played="90" /> 
+    <other name="Abandoned Airport" /> 
+</map>

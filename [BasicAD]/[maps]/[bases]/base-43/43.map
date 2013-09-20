@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1323.282958" posY="265.320007" posZ="25.055000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="656.491027" posY="-455.371002" posZ="16.334999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1327.734985" posY="269.299011" posZ="26.389999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="63" def="57" played="121" /> 
+    <other name="Montgomery V roof" /> 
+</map>

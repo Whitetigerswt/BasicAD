@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2725.479492" posY="-240.365493" posZ="7.187500" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2116.092285" posY="-96.855903" posZ="35.320301" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2763.340576" posY="-294.611511" posZ="7.039000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="22" def="21" played="41" /> 
+    <other name="Tennis Court" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2442.229980" posY="523.669982" posZ="29.909999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1541.989990" posY="729.099975" posZ="7.030000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2438.870117" posY="506.109985" posZ="29.940000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="11" def="4" played="12" /> 
+    <other name="Chuck Testa" /> 
+</map>

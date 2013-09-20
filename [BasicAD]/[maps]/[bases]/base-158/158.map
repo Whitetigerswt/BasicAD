@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2210.379882" posY="142.940002" posZ="35.319999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2437.050048" posY="731.020019" posZ="35.009998" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2219.780029" posY="142.940002" posZ="35.319999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="4" played="11" /> 
+    <other name="Alley behind the big SF boobs" /> 
+</map>

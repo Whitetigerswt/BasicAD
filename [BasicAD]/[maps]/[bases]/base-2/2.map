@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1549.295654" posY="-1639.781372" posZ="6.218699" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2488.469726" posY="-1664.598144" posZ="13.343700" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1539.005859" posY="-1666.573852" posZ="5.890600" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="134" def="158" played="290" /> 
+    <other name="LS Police Garage" /> 
+</map>

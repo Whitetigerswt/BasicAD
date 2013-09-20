@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2229.403320" posY="-2270.463378" posZ="14.764599" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1780.268066" posY="-1077.230224" posZ="23.960899" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2239.435302" posY="-2275.175781" posZ="13.546799" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="85" def="83" played="168" /> 
+    <other name="Grey imports side building" /> 
+</map>

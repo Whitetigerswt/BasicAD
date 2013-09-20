@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="819.479980" posY="-1498.010009" posZ="14.399999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1784.750000" posY="-1907.140014" posZ="13.390000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="814.369995" posY="-1494.040039" posZ="13.569999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="3" played="13" /> 
+    <other name="Urban park" /> 
+</map>

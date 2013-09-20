@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2558.329589" posY="1562.297973" posZ="10.820300" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2813.919189" posY="915.371704" posZ="10.750000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2533.365234" posY="1542.366455" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="20" def="24" played="42" /> 
+    <other name="Pilgrim" /> 
+</map>

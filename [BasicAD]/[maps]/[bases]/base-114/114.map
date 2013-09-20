@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1250.500000" posY="-806.130004" posZ="84.139999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1203.949951" posY="-1299.900024" posZ="13.380000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1245.479980" posY="-814.700012" posZ="84.139999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="8" played="12" /> 
+    <other name="Mad Dogs garage" /> 
+</map>

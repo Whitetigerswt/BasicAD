@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1022.489990" posY="-1123.260009" posZ="23.870000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="154.990005" posY="-1859.719970" posZ="3.769999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1022.440002" posY="-1128.439941" posZ="23.870000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="8" played="13" /> 
+    <other name="Mexican casino" /> 
+</map>

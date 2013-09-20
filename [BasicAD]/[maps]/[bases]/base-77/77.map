@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="668.409973" posY="-1867.400024" posZ="5.449999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1199.079956" posY="-1329.479980" posZ="13.390000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="662.880004" posY="-1854.479980" posZ="5.460000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="5" played="14" /> 
+    <other name="LS Beach" /> 
+</map>

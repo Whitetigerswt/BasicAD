@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2498.801025" posY="1149.718994" posZ="22.023000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2807.863037" posY="1279.625976" posZ="10.750000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2483.434082" posY="1135.364990" posZ="14.270000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="58" def="50" played="107" /> 
+    <other name="The one with 2 stairs :O" /> 
+</map>

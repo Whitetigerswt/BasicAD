@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1480.038574" posY="2627.410888" posZ="58.781200" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1918.845214" posY="2361.620117" posZ="48.368400" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1493.336059" posY="2646.560791" posZ="55.687500" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="22" def="30" played="48" /> 
+    <other name="GTAT arena" /> 
+</map>

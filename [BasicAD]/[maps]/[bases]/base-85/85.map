@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="907.320007" posY="-1049.170043" posZ="30.100000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1530.959960" posY="-1655.209960" posZ="13.380000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="923.039978" posY="-1046.949951" posZ="31.600000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="9" played="12" /> 
+    <other name="Graveyard pool" /> 
+</map>

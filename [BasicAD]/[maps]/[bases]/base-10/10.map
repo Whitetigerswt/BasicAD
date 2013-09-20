@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1815.546264" posY="1305.524658" posZ="50.445301" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2627.208740" posY="1365.952758" posZ="7.090000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1814.208251" posY="1303.055419" posZ="50.445301" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="127" played="17" /> 
+    <other name="SF 5 Story Carpark" /> 
+</map>

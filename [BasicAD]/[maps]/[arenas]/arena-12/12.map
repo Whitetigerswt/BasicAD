@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="195.645904" posY="1423.422241" posZ="10.579999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="116.321800" posY="1408.642944" posZ="10.600000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="278.942199" posY="1436.047851" posZ="10.585900" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="35.645900" minY="1263.422241" maxX="355.645904" maxY="1583.422241" />
+    <wins att="27" def="103" played="42" /> 
+    <other name="N/A" /> 
+</map>

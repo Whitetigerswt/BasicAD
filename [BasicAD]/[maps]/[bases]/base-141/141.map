@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2220.139892" posY="1839.290039" posZ="10.819999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2308.909912" posY="2445.080078" posZ="3.269999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2211.000000" posY="1851.859985" posZ="10.819999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="6" played="10" /> 
+    <other name="Clowns Pocket Casino" /> 
+</map>

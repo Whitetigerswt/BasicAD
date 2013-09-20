@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2528.835937" posY="-1667.588012" posZ="15.168000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1821.985961" posY="-2024.848999" posZ="13.381999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2494.417968" posY="-1668.517944" posZ="13.343000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="52" def="89" played="128" /> 
+    <other name="Grove Street" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1404.829956" posY="-1491.319946" posZ="20.440000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1619.449951" posY="-1804.670043" posZ="13.510000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1412.020019" posY="-1493.439941" posZ="20.430000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="9" played="12" /> 
+    <other name="Escalator attack" /> 
+</map>

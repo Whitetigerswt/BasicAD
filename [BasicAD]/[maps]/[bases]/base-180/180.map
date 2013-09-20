@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1714.949951" posY="-1911.569946" posZ="13.560000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="891.330017" posY="-1225.469970" posZ="16.969999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1722.209960" posY="-1912.130004" posZ="13.560000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="8" played="10" /> 
+    <other name="The dark side of Unity station" /> 
+</map>

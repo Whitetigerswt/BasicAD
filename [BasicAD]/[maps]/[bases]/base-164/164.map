@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="15" posX="2187.770019" posY="-1181.400024" posZ="1029.790039" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="15" posX="2222.370117" posY="-1149.699951" posZ="1025.790039" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="15" posX="2193.719970" posY="-1190.680053" posZ="1029.790039" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="30" def="42" played="66" /> 
+    <other name="Jefferson Motel" /> 
+</map>

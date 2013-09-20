@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2260.500000" posY="-1696.560058" posZ="13.710000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1945.329956" posY="-1398.479980" posZ="13.569999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2259.780029" posY="-1691.420043" posZ="13.710000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="6" played="10" /> 
+    <other name="Behind Binco" /> 
+</map>

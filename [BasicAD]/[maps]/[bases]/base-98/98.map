@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2631.000000" posY="-2137.060058" posZ="13.539999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2757.879882" posY="-2447.959960" posZ="13.500000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2638.050048" posY="-2121.449951" posZ="13.539999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="9" played="14" /> 
+    <other name="Big Barrel Bitches" /> 
+</map>

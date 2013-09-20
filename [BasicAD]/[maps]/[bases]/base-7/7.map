@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1633.505859" posY="657.870117" posZ="-5.242099" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2629.711181" posY="1364.054565" posZ="7.100399" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1578.601562" posY="710.757507" posZ="-5.242099" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="37" def="31" played="249" /> 
+    <other name="The rejected boy's home" /> 
+</map>

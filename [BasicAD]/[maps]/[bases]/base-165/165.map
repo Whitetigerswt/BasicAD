@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2535.540039" posY="44.779998" posZ="8.500000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2577.750000" posY="591.140014" posZ="14.449999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2536.850097" posY="52.490001" posZ="8.609999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="6" played="13" /> 
+    <other name="Underground Shithole" /> 
+</map>

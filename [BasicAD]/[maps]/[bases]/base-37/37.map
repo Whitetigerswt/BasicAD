@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="3" posX="189.792800" posY="179.130905" posZ="1003.023376" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="3" posX="288.965087" posY="170.002304" posZ="1007.179382" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="3" posX="236.230697" posY="147.381500" posZ="1003.029907" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="672" def="651" played="1320" /> 
+    <other name="LVPD interior" /> 
+</map>

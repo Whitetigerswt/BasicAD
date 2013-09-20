@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2466.508789" posY="2330.044433" posZ="4.519100" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2611.918701" posY="2261.600585" posZ="8.210900" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2399.115234" posY="2498.248291" posZ="11.694100" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="-2719.699462" minY="2197.375488" maxX="-2159.397460" maxY="2603.529541" />
+    <wins att="30" def="36" played="62" /> 
+    <other name="Bayside" /> 
+</map>

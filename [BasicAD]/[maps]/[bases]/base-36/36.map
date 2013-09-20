@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="725.792175" posY="-1475.612548" posZ="17.688999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="836.905029" posY="-2058.057861" posZ="12.867099" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="706.864013" posY="-1464.305541" posZ="17.695299" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="68" def="69" played="132" /> 
+    <other name="Pier house south" /> 
+</map>

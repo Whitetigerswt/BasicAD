@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2148.100097" posY="-1703.810058" posZ="15.069999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1884.750000" posY="-1393.709960" posZ="13.569999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2157.360107" posY="-1702.599975" posZ="15.109999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="11" def="9" played="20" /> 
+    <other name="Crack house" /> 
+</map>

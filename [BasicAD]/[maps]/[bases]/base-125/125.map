@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1662.859985" posY="-1710.520019" posZ="15.600000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2015.969970" posY="-1873.099975" posZ="13.539999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1657.270019" posY="-1711.569946" posZ="15.600000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="8" played="16" /> 
+    <other name="Tiny parking behind LSPD" /> 
+</map>

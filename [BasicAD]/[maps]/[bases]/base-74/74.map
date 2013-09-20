@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1364.124145" posY="-1647.432250" posZ="13.382800" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1779.126464" posY="-1075.363647" posZ="23.960899" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1371.761474" posY="-1649.105712" posZ="13.382800" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="35" def="29" played="64" /> 
+    <other name="LS gay garage" /> 
+</map>

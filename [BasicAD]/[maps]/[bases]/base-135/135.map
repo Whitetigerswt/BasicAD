@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1312.689941" posY="193.169998" posZ="20.440000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2228.000000" posY="91.660003" posZ="26.329999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1307.930053" posY="191.639999" posZ="20.459999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="8" played="12" /> 
+    <other name="The caravan" /> 
+</map>

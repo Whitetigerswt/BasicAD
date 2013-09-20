@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2489.128906" posY="-1961.475952" posZ="16.756999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1445.386962" posY="-2221.908935" posZ="13.545999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2488.718017" posY="-1949.423950" posZ="13.460000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="77" def="71" played="148" /> 
+    <other name="Gay mall" /> 
+</map>

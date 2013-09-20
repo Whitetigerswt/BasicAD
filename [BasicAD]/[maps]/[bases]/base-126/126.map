@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2039.869995" posY="-2086.370117" posZ="13.539999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2415.090087" posY="-2508.830078" posZ="13.649999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2040.880004" posY="-2096.229980" posZ="13.539999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="6" played="11" /> 
+    <other name="Between containers" /> 
+</map>

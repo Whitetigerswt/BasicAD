@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1867.839965" posY="-1991.321044" posZ="13.545999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1682.767944" posY="-2286.985107" posZ="-1.233000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1884.037963" posY="-2023.932983" posZ="13.390000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="56" def="80" played="135" /> 
+    <other name="LS Ghetto Apartments" /> 
+</map>

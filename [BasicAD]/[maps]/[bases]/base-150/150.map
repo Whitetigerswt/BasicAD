@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1911.579956" posY="2189.020019" posZ="11.119999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2228.129882" posY="1800.270019" posZ="10.819999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1913.310058" posY="2205.239990" posZ="11.119999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="6" played="15" /> 
+    <other name="The diner" /> 
+</map>

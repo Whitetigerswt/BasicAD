@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="5" posX="1264.180053" posY="-784.659973" posZ="1091.900024" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="5" posX="1228.449951" posY="-810.760009" posZ="1084.000000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="5" posX="1266.569946" posY="-775.169982" posZ="1091.900024" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="42" def="41" played="77" /> 
+    <other name="Madd Doggs Mansion" /> 
+</map>

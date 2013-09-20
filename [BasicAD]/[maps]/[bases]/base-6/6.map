@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2373.451171" posY="1551.343505" posZ="2.117100" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1653.671752" posY="1251.014648" posZ="7.187500" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2386.430908" posY="1544.930908" posZ="10.828100" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="296" def="481" played="233" /> 
+    <other name="SF Ship Cargo Hold" /> 
+</map>

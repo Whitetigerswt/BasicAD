@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="814.356018" posY="-1369.005004" posZ="-1.672000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1590.083984" posY="-1029.322021" posZ="23.906000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="800.210998" posY="-1325.828002" posZ="13.381999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="105" def="96" played="199" /> 
+    <other name="LS Subway" /> 
+</map>

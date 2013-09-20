@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2030.930053" posY="-1289.619995" posZ="20.940000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2212.679931" posY="-931.979980" posZ="78.180000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2030.780029" posY="-1283.400024" posZ="20.950000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="6" played="11" /> 
+    <other name="Under Glen" /> 
+</map>

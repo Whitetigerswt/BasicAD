@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2184.530273" posY="-263.642486" posZ="40.719398" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1358.268554" posY="-593.722473" posZ="14.148400" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2151.800781" posY="-247.115493" posZ="36.515598" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="161" def="95" played="182" /> 
+    <other name="SF Crack Factory" /> 
+</map>

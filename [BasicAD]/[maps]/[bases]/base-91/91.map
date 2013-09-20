@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2158.429931" posY="-1798.050048" posZ="13.359999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2315.560058" posY="-1527.630004" posZ="25.340000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2164.129882" posY="-1797.619995" posZ="13.359999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="15" def="7" played="15" /> 
+    <other name="Little motel" /> 
+</map>

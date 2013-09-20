@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1855.785034" posY="-1590.900024" posZ="28.555999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1474.904052" posY="-1641.196044" posZ="14.156000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1886.678955" posY="-1586.378051" posZ="29.048999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="80" def="52" played="128" /> 
+    <other name="LS apartment house roof" /> 
+</map>

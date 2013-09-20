@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1044.130004" posY="-296.910003" posZ="73.989997" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="231.330001" posY="-151.470001" posZ="1.419999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1045.969970" posY="-322.290008" posZ="73.980003" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="5" def="6" played="6" /> 
+    <other name="Dillimore farm" /> 
+</map>

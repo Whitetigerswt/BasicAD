@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2393.850097" posY="-1206.319946" posZ="27.799999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2170.840087" posY="-1797.530029" posZ="13.359999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2418.270019" posY="-1233.109985" posZ="24.389999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="8" def="11" played="16" /> 
+    <other name="Corner of Pig Pen" /> 
+</map>

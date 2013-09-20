@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="BasicAD">
+    <checkpoint id="1" interior="0" posX="2168.632812" posY="-2246.228271" posZ="20.158700" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1400.644042" posY="-2242.269042" posZ="13.545999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2176.282958" posY="-2301.293945" posZ="13.545999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="13" def="258" played="534" /> 
+    <other name="Grey imports" /> 
+</map>

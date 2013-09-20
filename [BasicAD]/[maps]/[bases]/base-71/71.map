@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="710.583007" posY="1985.046997" posZ="3.483000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-221.192993" posY="2601.605957" posZ="62.702999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="662.856018" posY="2013.968994" posZ="8.814999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="47" def="46" played="90" /> 
+    <other name="Bone County Hotel" /> 
+</map>

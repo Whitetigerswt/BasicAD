@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1296.895996" posY="-980.505004" posZ="32.694999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1783.354003" posY="-1922.715942" posZ="13.390999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1287.459960" posY="-1035.160034" posZ="31.284999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="37" def="22" played="59" /> 
+    <other name="Tight space" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1676.927001" posY="1206.901000" posZ="21.156000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1431.152954" posY="860.908020" posZ="7.186999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1658.255981" posY="1213.265991" posZ="13.670999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="88" def="43" played="128" /> 
+    <other name="SF carshop" /> 
+</map>

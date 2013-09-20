@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2063.379882" posY="-1055.469970" posZ="27.329999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2422.199951" posY="-1231.819946" posZ="24.690000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2053.199951" posY="-1051.099975" posZ="26.219999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="7" played="12" /> 
+    <other name="North LS cat semetary" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1814.969970" posY="1155.369995" posZ="45.450000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2073.620117" posY="1386.890014" posZ="7.099999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1813.260009" posY="1148.790039" posZ="45.450000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="5" played="11" /> 
+    <other name="Enter the matrix" /> 
+</map>

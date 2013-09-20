@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="17" posX="-954.489990" posY="1947.859985" posZ="9.000000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="17" posX="-943.080017" posY="1849.810058" posZ="5.000000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="17" posX="-943.020019" posY="1950.500000" posZ="5.000000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="4" def="1" played="5" /> 
+    <other name="Sherman Dam" /> 
+</map>

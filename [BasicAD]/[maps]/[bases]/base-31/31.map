@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="3" posX="357.937988" posY="162.127593" posZ="1025.796386" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="3" posX="385.588806" posY="173.764099" posZ="1008.382812" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="3" posX="354.075286" posY="173.486694" posZ="1019.984375" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="601" def="625" played="1220" /> 
+    <other name="Planning Department" /> 
+</map>

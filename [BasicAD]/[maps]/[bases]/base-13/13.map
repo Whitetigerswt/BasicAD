@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1403.769531" posY="2207.251464" posZ="12.015600" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="361.893310" posY="2499.976074" posZ="16.484300" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1364.379150" posY="2168.542968" posZ="11.015600" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="101" def="109" played="209" /> 
+    <other name="Baseball Stadium" /> 
+</map>

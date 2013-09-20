@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2014.369995" posY="2158.629882" posZ="10.819999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1732.069946" posY="1452.560058" posZ="10.729999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2016.900024" posY="2149.479980" posZ="10.819999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="9" played="14" /> 
+    <other name="Sideway motel" /> 
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1317.008666" posY="314.399414" posZ="19.406200" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1242.298950" posY="132.925704" posZ="19.955999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1363.892211" posY="418.746002" posZ="19.406200" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="1125.733642" minY="82.445701" maxX="1489.636962" maxY="474.262786" />
+    <wins att="28" def="103" played="70" /> 
+    <other name="Small Countryside" /> 
+</map>

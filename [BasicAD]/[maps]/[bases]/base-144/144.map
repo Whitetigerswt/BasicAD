@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2241.800048" posY="-1734.729980" posZ="480.230010" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2493.949951" posY="-1897.910034" posZ="299.010009" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2251.110107" posY="-1712.949951" posZ="480.079986" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="7" played="12" /> 
+    <other name="Mount Chilliad" /> 
+</map>

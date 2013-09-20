@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2565.824707" posY="659.827026" posZ="14.453100" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2361.340332" posY="1084.360717" posZ="55.578098" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2568.955078" posY="605.555725" posZ="14.459099" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="25" def="18" played="41" /> 
+    <other name="SF hospital parking" /> 
+</map>

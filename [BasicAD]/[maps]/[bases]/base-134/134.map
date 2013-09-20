@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="248.919998" posY="-47.900001" posZ="1.570000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="702.599975" posY="-452.619995" posZ="16.329999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="254.059997" posY="-45.520000" posZ="1.580000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="8" played="12" /> 
+    <other name="Village shop back room" /> 
+</map>

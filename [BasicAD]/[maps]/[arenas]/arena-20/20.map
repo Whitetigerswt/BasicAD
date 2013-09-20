@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2527.020507" posY="1563.989257" posZ="8.409999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2426.951904" posY="1471.574340" posZ="11.000000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2590.893798" posY="1563.082153" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="2367.020507" minY="1403.989257" maxX="2687.020507" maxY="1723.989257" />
+    <wins att="16" def="102" played="27" /> 
+    <other name="Mexican motel" /> 
+</map>

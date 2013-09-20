@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="958.169982" posY="-1378.819946" posZ="13.659999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1786.920043" posY="-1900.900024" posZ="13.390000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="964.549987" posY="-1389.020019" posZ="13.460000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="8" played="14" /> 
+    <other name="LS Cluckin' Bell" /> 
+</map>

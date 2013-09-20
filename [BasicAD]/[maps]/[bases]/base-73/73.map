@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2722.170410" posY="-2240.466308" posZ="15.966500" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1782.489501" posY="-1905.845703" posZ="13.391099" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2722.928955" posY="-2224.919433" posZ="13.546799" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="65" def="89" played="156" /> 
+    <other name="LS industrial harbor" /> 
+</map>

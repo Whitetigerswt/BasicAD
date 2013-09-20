@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-731.954101" posY="1546.428344" posZ="38.990100" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-299.666687" posY="1510.718750" posZ="75.359298" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-764.269775" posY="1541.638916" posZ="26.960899" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="70" def="74" played="144" /> 
+    <other name="Desert hill" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1271.733032" posY="295.053985" posZ="20.656000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="676.109008" posY="238.158996" posZ="27.339000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1243.178955" posY="268.316986" posZ="19.406000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="61" def="56" played="116" /> 
+    <other name="Montgomery" /> 
+</map>

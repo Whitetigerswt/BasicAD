@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="725.460021" posY="-1445.144042" posZ="17.694999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="155.520004" posY="-1921.182006" posZ="3.773000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="702.593994" posY="-1431.150024" posZ="13.531000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="66" def="62" played="125" /> 
+    <other name="Harbor house north" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="1" posX="-825.997619" posY="516.903991" posZ="1357.638427" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="1" posX="-790.169189" posY="496.403411" posZ="1376.195312" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="1" posX="-834.609619" posY="522.647216" posZ="1357.101440" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="122" def="133" played="241" /> 
+    <other name="Liberty City" /> 
+</map>

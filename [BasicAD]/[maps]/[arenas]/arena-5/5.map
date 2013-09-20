@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2343.932617" posY="90.946403" posZ="26.332799" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2246.474853" posY="35.656200" posZ="26.484300" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2535.179931" posY="41.824401" posZ="26.343700" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="2142.846435" minY="-154.162506" maxX="2582.043457" maxY="222.433303" />
+    <wins att="32" def="102" played="64" /> 
+    <other name="Palomino Creek" /> 
+</map>

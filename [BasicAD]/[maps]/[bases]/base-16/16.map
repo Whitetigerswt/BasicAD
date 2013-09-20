@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2378.273681" posY="1830.494140" posZ="6.015600" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1648.399169" posY="1584.608032" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2427.222900" posY="1902.339111" posZ="6.015600" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="86" def="11" played="172" /> 
+    <other name="LV Construction Site" /> 
+</map>

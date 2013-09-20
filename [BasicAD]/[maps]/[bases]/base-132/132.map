@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="226.929992" posY="-1398.000000" posZ="51.580001" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-76.129997" posY="-1124.750000" posZ="1.070000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="215.750000" posY="-1394.010009" posZ="51.580001" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="11" def="8" played="17" /> 
+    <other name="South Vinewood" /> 
+</map>

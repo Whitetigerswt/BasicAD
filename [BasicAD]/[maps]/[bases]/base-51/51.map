@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1624.408447" posY="1944.265258" posZ="11.023400" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1954.648559" posY="2156.911376" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1680.630615" posY="1924.720214" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="29" def="29" played="58" /> 
+    <other name="Redsands West Apartments" /> 
+</map>

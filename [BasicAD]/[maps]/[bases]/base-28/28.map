@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2100.648925" posY="2491.610107" posZ="14.840000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1990.938964" posY="2245.389892" posZ="26.183000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2099.364990" posY="2474.364013" posZ="10.819999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="47" def="62" played="105" /> 
+    <other name="LV gay" /> 
+</map>

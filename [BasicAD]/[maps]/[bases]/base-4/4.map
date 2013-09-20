@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1361.282470" posY="18.371999" posZ="6.335899" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2128.665771" posY="-163.217605" posZ="35.320301" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1378.492553" posY="6.805699" posZ="6.000000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="64" def="82" played="160" /> 
+    <other name="SF Airport Parking" /> 
+</map>

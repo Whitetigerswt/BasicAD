@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-1680.069946" posY="705.900024" posZ="30.600000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2085.959960" posY="215.669998" posZ="35.150001" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-1678.449951" posY="699.929992" posZ="30.600000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="10" def="9" played="16" /> 
+    <other name="SFPD helipad" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2058.520019" posY="88.440002" posZ="28.389999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1925.920043" posY="-859.760009" posZ="32.009998" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2058.370117" posY="78.690002" posZ="28.389999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="7" played="14" /> 
+    <other name="The fire station" /> 
+</map>

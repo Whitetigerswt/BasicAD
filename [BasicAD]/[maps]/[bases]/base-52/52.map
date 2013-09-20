@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1318.687255" posY="1253.740112" posZ="14.273099" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2101.923339" posY="2088.343017" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1319.483642" posY="1264.926269" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="23" def="26" played="49" /> 
+    <other name="LV Airport" /> 
+</map>

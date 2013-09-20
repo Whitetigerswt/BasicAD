@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="183.901306" posY="-107.345298" posZ="2.023400" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-1017.679870" posY="-643.210876" posZ="32.007801" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="183.584899" posY="-142.261505" posZ="1.437399" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="62" def="74" played="133" /> 
+    <other name="Blueberry apartment house" /> 
+</map>

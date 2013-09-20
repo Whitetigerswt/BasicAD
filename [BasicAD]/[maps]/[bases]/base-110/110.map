@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1655.439941" posY="-1660.439941" posZ="22.510000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1732.239990" posY="-1084.349975" posZ="23.940000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1649.209960" posY="-1674.189941" posZ="21.430000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="9" played="13" /> 
+    <other name="Big ass glass house" /> 
+</map>

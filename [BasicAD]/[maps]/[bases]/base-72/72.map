@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="3" posX="-2660.868896" posY="1412.340820" posZ="922.195312" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="3" posX="-2648.497070" posY="1408.126220" posZ="906.277099" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="3" posX="-2651.906005" posY="1392.671630" posZ="918.351623" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="629" def="659" played="1288" /> 
+    <other name="Jizzys Club" /> 
+</map>

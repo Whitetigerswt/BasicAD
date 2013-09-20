@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="250.660903" posY="-181.914901" posZ="10.096199" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-517.774414" posY="-79.883697" posZ="62.342800" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="226.810699" posY="-149.980102" posZ="1.578099" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="6" played="10" /> 
+    <other name="BlueBerry Ammunation Roof" /> 
+</map>

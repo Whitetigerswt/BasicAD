@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1778.650024" posY="-1360.569946" posZ="15.750000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2287.739990" posY="-1523.050048" posZ="26.870000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1777.130004" posY="-1365.739990" posZ="15.750000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="7" played="11" /> 
+    <other name="The mall near skate park" /> 
+</map>

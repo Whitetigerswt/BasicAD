@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1979.820556" posY="2261.929931" posZ="27.195299" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1645.934448" posY="1568.876342" posZ="10.547400" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1998.281616" posY="2240.294189" posZ="25.364799" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="19" def="18" played="35" /> 
+    <other name="LV freaky parking" /> 
+</map>

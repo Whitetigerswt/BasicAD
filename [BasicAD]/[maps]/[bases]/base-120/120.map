@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2255.620117" posY="-2144.860107" posZ="13.539999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2338.729980" posY="-1737.630004" posZ="13.539999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2260.360107" posY="-2140.689941" posZ="13.539999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="7" played="16" /> 
+    <other name="Fucked by a train" /> 
+</map>

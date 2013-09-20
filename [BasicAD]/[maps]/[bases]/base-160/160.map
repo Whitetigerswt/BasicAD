@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2537.040039" posY="1225.099975" posZ="37.419998" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2437.459960" posY="734.260009" posZ="35.009998" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2521.909912" posY="1223.500000" posZ="39.569999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="6" def="2" played="7" /> 
+    <other name="Poor Mans Parking" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="815.148986" posY="-1095.736450" posZ="25.789499" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="204.702194" posY="-1790.614013" posZ="4.089799" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="836.636779" posY="-1101.463256" posZ="24.303899" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="24" def="19" played="41" /> 
+    <other name="LS Graveyard" /> 
+</map>

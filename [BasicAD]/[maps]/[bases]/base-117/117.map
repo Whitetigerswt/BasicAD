@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2478.870117" posY="-1332.880004" posZ="27.840000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2103.560058" posY="-1716.219970" posZ="13.380000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2477.850097" posY="-1327.199951" posZ="27.760000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="11" def="5" played="16" /> 
+    <other name="The neighbour wife's back door" /> 
+</map>

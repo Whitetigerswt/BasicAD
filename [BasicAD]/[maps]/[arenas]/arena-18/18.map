@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-66.305000" posY="18.111999" posZ="3.117000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-39.395999" posY="114.068000" posZ="3.117000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-106.330001" posY="-81.527999" posZ="3.117000" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="-210.201797" minY="-210.201797" maxX="70.067253" maxY="186.845993" />
+    <wins att="99" def="103" played="195" /> 
+    <other name="Weed Farm" /> 
+</map>

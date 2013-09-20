@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2630.969970" posY="184.690002" posZ="4.340000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2500.590087" posY="-18.979999" posZ="25.600000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2641.120117" posY="185.460006" posZ="4.320000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="8" def="7" played="14" /> 
+    <other name="SF weapon shop back door" /> 
+</map>

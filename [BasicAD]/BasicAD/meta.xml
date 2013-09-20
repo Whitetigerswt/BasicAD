@@ -1,0 +1,25 @@
+<meta>
+	<info author="Whitetiger" version="0.01" type="gamemode" name="AAD" description="a Basic A/D script" />
+	
+	<min_mta_version>1.3.0-9.03852.0</min_mta_version>
+	
+	<include resource="scoreboard" />
+
+	<file src="images/inround.png"/>
+	<file src="images/clock.png"/>
+	<file src="images/roundend.png"/>
+	<file src="images/pause.png"/>
+	
+	<file src="sounds/cp.mp3"/>
+	<file src="sounds/countdown.mp3"/>
+	<file src="sounds/hit.mp3"/>
+	<file src="sounds/2minutesleft.mp3"/>
+	<file src="sounds/cpcapvoice.mp3"/>
+	<file src="sounds/endsin30seconds.mp3"/>
+	<file src="sounds/loss.mp3"/>
+	<file src="sounds/victory.mp3"/>
+	<file src="sounds/pause.mp3"/>
+	
+	<script src="main.luac" type="server" />
+	<script src="main_client.luac" type="client" protected="true" />
+</meta>

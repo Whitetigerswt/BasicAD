@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1734.267944" posY="2110.364746" posZ="12.288999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="959.132019" posY="1744.788208" posZ="8.648400" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1708.588500" posY="2106.249267" posZ="10.671799" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="37" def="49" played="86" /> 
+    <other name="Fenced balcony" /> 
+</map>

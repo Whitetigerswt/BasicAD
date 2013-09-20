@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1978.680053" posY="2319.979980" posZ="17.549999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1741.310058" posY="2233.989990" posZ="10.819999" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1986.329956" posY="2313.020019" posZ="17.549999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="9" def="6" played="13" /> 
+    <other name="The platform" /> 
+</map>

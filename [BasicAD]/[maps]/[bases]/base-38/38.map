@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="-2746.510009" posY="117.639999" posZ="7.329999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="-2597.479980" posY="1126.449951" posZ="55.610000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="-2747.639892" posY="104.419998" posZ="7.329999" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="124" def="211" played="330" /> 
+    <other name="South SF beach houses" /> 
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1225.619995" posY="-988.409973" posZ="43.479999" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1491.160034" posY="-601.450012" posZ="91.400001" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1218.040039" posY="-986.469970" posZ="43.470001" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="7" def="8" played="13" /> 
+    <other name="Near the other base" /> 
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2624.125976" posY="2798.126220" posZ="10.800000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2527.061523" posY="2834.690429" posZ="10.800000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2634.183105" posY="2730.551269" posZ="23.822200" rotX="0" rotY="0" rotZ="0" /> 
+    <limits minX="2464.125976" minY="2638.126220" maxX="2784.125976" maxY="2958.126220" />
+    <wins att="61" def="102" played="126" /> 
+    <other name="KACC Military Fuels" /> 
+</map>

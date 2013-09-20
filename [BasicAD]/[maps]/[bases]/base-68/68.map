@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="1768.883544" posY="2814.597167" posZ="8.335900" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="1514.998413" posY="2247.583251" posZ="10.820300" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="1765.757568" posY="2765.829833" posZ="10.835900" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="41" def="29" played="66" /> 
+    <other name="Mountain pool" /> 
+</map>

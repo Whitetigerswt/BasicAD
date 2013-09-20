@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<map edf:definitions="AnalyticalAD">
+    <checkpoint id="1" interior="0" posX="2069.550048" posY="-1556.000000" posZ="13.420000" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="1" team="Att" interior="0" posX="2304.219970" posY="-1218.449951" posZ="23.840000" rotX="0" rotY="0" rotZ="0" /> 
+    <spawnpoint id="1" team="Def" interior="0" posX="2091.419921" posY="-1556.880004" posZ="13.340000" rotX="0" rotY="0" rotZ="0" /> 
+    <wins att="8" def="6" played="13" /> 
+    <other name="Square death" /> 
+</map>
